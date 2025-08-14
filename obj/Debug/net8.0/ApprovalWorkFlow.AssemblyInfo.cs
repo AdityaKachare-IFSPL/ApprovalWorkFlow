@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApprovalWorkFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6722f41fde599ac1e41b6e4e4465e63e4c3d03c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApprovalWorkFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApprovalWorkFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
