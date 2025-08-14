@@ -1,0 +1,57 @@
+{
+  "WorkflowSettings": {
+    "CEOApprovalThreshold": 100000,
+    "CurrencySymbol": "₹",
+    "RequireAllApprovalsForHighValue": true
+  },
+
+  "ApprovalFlow": {
+    "InitialStep": "Manager",
+    "StandardFlow": [
+      {
+        "Step": "Manager",
+        "NextStep": "SeniorManager",
+        "CanReject": true,
+        "Required": true
+      },
+      {
+        "Step": "SeniorManager",
+        "NextStep": "Admin",
+        "CanReject": true,
+        "Required": true,
+        "ConditionalRouting": {
+          "Condition": "price >= CEOApprovalThreshold",
+          "AlternateStep": "CEO"
+        }
+      },
+      {
+        "Step": "CEO",
+        "NextStep": "Admin",
+        "CanReject": true,
+        "Required": true
+      },
+      {
+        "Step": "Admin",
+        "NextStep": "Completed",
+        "CanReject": false,
+        "Required": true,
+        "RequiresAssignment": true
+      }
+    ]
+  },
+
+  "RejectionLogic": {
+    "ManagerRejects": {
+      "Result": "FullyRejected",
+      "Reason": "Initial approval failed"
+    },
+    "SeniorManagerRejects": {
+      "Result": "FullyRejected",
+      "Reason": "Senior management disapproval"
+    },
+    "CEORejects": {
+      "Result": "FullyRejected",
+      "Reason": "CEO disapproval"
+    }
+  }
+}

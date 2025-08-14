@@ -1,0 +1,14 @@
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\bin\Debug\net8.0\ApprovalWorkFlow.exe
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\bin\Debug\net8.0\ApprovalWorkFlow.deps.json
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\bin\Debug\net8.0\ApprovalWorkFlow.runtimeconfig.json
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\bin\Debug\net8.0\ApprovalWorkFlow.dll
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\bin\Debug\net8.0\ApprovalWorkFlow.pdb
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.AssemblyInfoInputs.cache
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.AssemblyInfo.cs
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.csproj.CoreCompileInputs.cache
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.dll
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\refint\ApprovalWorkFlow.dll
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.pdb
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ApprovalWorkFlow.genruntimeconfig.cache
+C:\Users\IFSPL2678-ADITYA\source\repos\ApprovalWorkFlow\ApprovalWorkFlow\obj\Debug\net8.0\ref\ApprovalWorkFlow.dll
